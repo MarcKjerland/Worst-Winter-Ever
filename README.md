@@ -1,2 +1,2 @@
 # Worst-Winter-Ever
-An data-driven approach to finding the worst winter ever in Chicago and Minneapolis.
+An data-driven approach to finding the worst winter ever in Chicago and Minneapolis.  This is an iPython Notebook.
